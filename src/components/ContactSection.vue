@@ -52,7 +52,7 @@
                </div>
                <div class="ml-6">
                  <p class="text-lg font-bold text-gray-900">Jam Operasional</p>
-                 <p class="text-gray-600 mt-1">Senin - Minggu: 08.00 - 17.00 WIB</p>
+                 <p class="text-gray-600 mt-1">Senin - Minggu: 07.00 - 18.00 WIB</p>
                  <p class="text-sm text-blue-600 font-semibold mt-1">Layanan Panggilan 24 Jam</p>
                </div>
              </div>
@@ -62,7 +62,7 @@
         <!-- Google Maps -->
         <div class="rounded-3xl overflow-hidden shadow-2xl h-[500px] border-4 border-white">
              <iframe 
-               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15931.785055057863!2d104.9398686!3d-3.3653138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3b97b00388d7df%3A0xc3b5fa777c1d1a6d!2sKayu%20Agung%2C%20Ogan%20Komering%20Ilir%20Regency%2C%20South%20Sumatra!5e0!3m2!1sen!2sid!4v1700000000000!5m2!1sen!2sid" 
+               src="https://maps.google.com/maps?q=-3.388430,104.828599&hl=id&z=16&output=embed" 
                width="100%" 
                height="100%" 
                style="border:0;" 

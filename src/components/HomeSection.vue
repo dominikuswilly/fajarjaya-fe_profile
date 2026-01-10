@@ -14,7 +14,7 @@
       <div class="max-w-3xl">
         <div class="inline-flex items-center px-4 py-2 rounded-full border border-blue-500/30 bg-blue-500/10 backdrop-blur-sm mb-6">
             <span class="w-2 h-2 rounded-full bg-blue-400 mr-2 animate-pulse"></span>
-            <span class="text-sm font-medium text-blue-300">Buka Setiap Hari 24/7 di Kayuagung</span>
+            <span class="text-sm font-medium text-blue-300">Buka 07.00-18.00 setiap hari</span>
         </div>
         <h1 class="text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight mb-6 leading-tight">
           Solusi Servis Mobil <br class="hidden lg:block"/>

@@ -11,7 +11,7 @@
             Bengkel Mobil Fajar Jaya hadir sebagai solusi terpercaya bagi pemilik mobil di Kayuagung dan sekitarnya. Kami mengerti betapa pentingnya performa kendaraan bagi aktivitas harian Anda.
           </p>
           <p class="mt-4 text-lg text-gray-500">
-            Dengan dukungan teknisi berpengalaman (Aiku) dan peralatan yang memadai, kami berkomitmen memberikan pelayanan terbaik dengan hasil yang memuaskan dan harga yang transparan.
+            Dengan dukungan teknisi berpengalaman (Aiku) dan peralatan yang memadai, kami berkomitmen memberikan pelayanan terbaik dengan hasil yang memuaskan dan harga Harga Bersahabat.
           </p>
 
           <dl class="mt-8 space-y-4">
@@ -29,7 +29,7 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <p class="ml-3 text-base text-gray-700">Harga Jujur & Bersahabat</p>
+              <p class="ml-3 text-base text-gray-700">Harga Bersahabat</p>
             </div>
             <div class="flex items-start">
               <div class="flex-shrink-0">

@@ -27,7 +27,7 @@
         </div>
       </div>
       <div class="mt-8 border-t border-gray-700 pt-8 text-center text-gray-400 text-sm">
-        <p>&copy; 2024 Bengkel Mobil Fajar Jaya (Aiku). All rights reserved.</p>
+        <p>&copy; 2026 Bengkel Mobil Fajar Jaya (Aiku). All rights reserved.</p>
       </div>
     </div>
   </footer>

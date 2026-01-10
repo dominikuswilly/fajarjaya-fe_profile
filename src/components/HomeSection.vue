@@ -3,9 +3,9 @@
     <!-- Background Image -->
     <div class="absolute inset-0 z-0 overflow-hidden">
       <!-- Using a more specific car repair image if available, otherwise generic professional look -->
-      <img src="https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" 
+      <img :src="heroBg" 
            alt="Bengkel Mobil Fajar Jaya Kayuagung" 
-           class="w-full h-full object-cover opacity-40 blur-sm scale-105 transform hover:scale-110 transition duration-[20s]" />
+           class="w-full h-full object-cover opacity-60 blur-[2px] scale-105 transform hover:scale-110 transition duration-[20s]" />
       <div class="absolute inset-0 bg-gradient-to-r from-gray-900 via-gray-900/90 to-transparent"></div>
     </div>
 
@@ -63,4 +63,5 @@
 
 
 <script setup>
+import heroBg from '../assets/hero-bg.png'
 </script>

@@ -21,7 +21,7 @@
           <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-600">Terbaik & Terpercaya</span>
         </h1>
         <p class="text-xl md:text-2xl text-gray-300 mb-10 font-light max-w-2xl leading-relaxed">
-          Bengkel Mobil Fajar Jaya (Aiku). Kami menangani segala jenis kerusakan mobil dengan mekanik ahli, alat modern, dan harga yang transparan.
+          Bengkel Mobil Fajar Jaya (Aiku). Kami menangani segala jenis kerusakan mobil dengan mekanik ahli, alat modern, dan harga bersahabat.
         </p>
         <div class="flex flex-col sm:flex-row gap-5">
           <a href="https://wa.me/6282289004303?text=Halo%20Bengkel%20Fajar%20Jaya,%20saya%20ingin%20servis%20mobil" 
@@ -53,7 +53,7 @@
           </div>
           <div class="group">
             <p class="text-3xl font-extrabold text-white group-hover:text-blue-400 transition-colors">Fair</p>
-            <p class="text-sm text-gray-400 font-medium tracking-wide uppercase">Harga Jujur</p>
+            <p class="text-sm text-gray-400 font-medium tracking-wide uppercase">Harga Bersahabat</p>
           </div>
         </div>
       </div>

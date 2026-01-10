@@ -41,7 +41,7 @@
         <!-- Quick Stats -->
         <div class="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 border-t border-gray-800/50 pt-8">
           <div class="group">
-            <p class="text-3xl font-extrabold text-white group-hover:text-blue-400 transition-colors">24/7</p>
+            <p class="text-3xl font-extrabold text-white group-hover:text-blue-400 transition-colors">07.00-18.00</p>
             <p class="text-sm text-gray-400 font-medium tracking-wide uppercase">Siap Panggil</p>
           </div>
           <div class="group">

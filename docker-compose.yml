@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   web:
     image: app.netbird.cloud:8081/fe-bengkel/stable:1.0.0

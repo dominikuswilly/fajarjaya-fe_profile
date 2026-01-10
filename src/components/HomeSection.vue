@@ -32,7 +32,6 @@
             Hubungi via WhatsApp
           </a>
           <a href="#layanan" 
-             @click.prevent="document.getElementById('layanan').scrollIntoView({behavior: 'smooth'})"
              class="inline-flex items-center justify-center px-8 py-4 border-2 border-gray-600 text-lg font-bold rounded-xl text-gray-300 hover:text-white hover:border-white hover:bg-white/5 transition-all">
             Lihat Layanan
           </a>

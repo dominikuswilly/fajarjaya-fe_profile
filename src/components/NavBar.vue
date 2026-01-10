@@ -15,6 +15,7 @@
           <div class="ml-10 flex items-baseline space-x-4">
             <a href="#home" class="text-gray-700 hover:text-brand-blue px-3 py-2 rounded-md text-sm font-medium transition-colors" @click.prevent="scrollTo('home')">Home</a>
             <a href="#layanan" class="text-gray-700 hover:text-brand-blue px-3 py-2 rounded-md text-sm font-medium transition-colors" @click.prevent="scrollTo('layanan')">Layanan</a>
+            <a href="#portfolio" class="text-gray-700 hover:text-brand-blue px-3 py-2 rounded-md text-sm font-medium transition-colors" @click.prevent="scrollTo('portfolio')">Portofolio</a>
             <a href="#promo" class="text-gray-700 hover:text-brand-blue px-3 py-2 rounded-md text-sm font-medium transition-colors" @click.prevent="scrollTo('promo')">Promo</a>
             <a href="#about" class="text-gray-700 hover:text-brand-blue px-3 py-2 rounded-md text-sm font-medium transition-colors" @click.prevent="scrollTo('about')">Tentang Kami</a>
             <a href="#contact" class="bg-brand-blue text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition font-medium shadow-md">Hubungi Kami</a>
@@ -46,6 +47,7 @@
         <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
           <a href="#home" class="text-gray-700 hover:text-brand-blue hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors" @click="scrollTo('home')">Home</a>
           <a href="#layanan" class="text-gray-700 hover:text-brand-blue hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors" @click="scrollTo('layanan')">Layanan</a>
+          <a href="#portfolio" class="text-gray-700 hover:text-brand-blue hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors" @click="scrollTo('portfolio')">Portofolio</a>
           <a href="#promo" class="text-gray-700 hover:text-brand-blue hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors" @click="scrollTo('promo')">Promo</a>
           <a href="#about" class="text-gray-700 hover:text-brand-blue hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors" @click="scrollTo('about')">Tentang Kami</a>
           <a href="#contact" class="text-brand-blue hover:text-brand-blue hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-bold transition-colors border-2 border-brand-blue mt-2 text-center" @click="scrollTo('contact')">Hubungi Kami</a>

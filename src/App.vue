@@ -4,6 +4,7 @@
     <main>
       <HomeSection />
       <LayananSection />
+      <PortfolioSection />
       <!-- <PromoSection /> -->
       <AboutSection />
       <ContactSection />
@@ -16,6 +17,7 @@
 import NavBar from './components/NavBar.vue'
 import HomeSection from './components/HomeSection.vue'
 import LayananSection from './components/LayananSection.vue'
+import PortfolioSection from './components/PortfolioSection.vue'
 import PromoSection from './components/PromoSection.vue'
 import AboutSection from './components/AboutSection.vue'
 import ContactSection from './components/ContactSection.vue'

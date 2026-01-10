@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bengkelfajarjaya.com/sitemap.xml

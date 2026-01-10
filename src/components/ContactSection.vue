@@ -53,7 +53,6 @@
                <div class="ml-6">
                  <p class="text-lg font-bold text-gray-900">Jam Operasional</p>
                  <p class="text-gray-600 mt-1">Senin - Minggu: 07.00 - 18.00 WIB</p>
-                 <p class="text-sm text-blue-600 font-semibold mt-1">Layanan Panggilan 24 Jam</p>
                </div>
              </div>
           </div>

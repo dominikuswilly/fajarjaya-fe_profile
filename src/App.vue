@@ -4,7 +4,7 @@
     <main>
       <HomeSection />
       <LayananSection />
-      <PromoSection />
+      <!-- <PromoSection /> -->
       <AboutSection />
       <ContactSection />
     </main>

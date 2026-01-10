@@ -14,8 +14,23 @@
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <div v-for="(item, index) in portfolioItems" :key="index" 
              class="group relative overflow-hidden rounded-2xl shadow-lg transition-all duration-500 hover:-translate-y-2">
-          <img :src="item.image" :alt="item.title" 
-               class="w-full h-80 object-cover transition-transform duration-700 group-hover:scale-110" />
+          
+          <!-- Media Display -->
+          <div class="w-full h-80 overflow-hidden">
+            <video v-if="item.type === 'video'" 
+                   :src="item.media" 
+                   autoplay 
+                   muted 
+                   loop 
+                   playsinline
+                   class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+            </video>
+            <img v-else 
+                 :src="item.media" 
+                 :alt="item.title" 
+                 class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
+          </div>
+
           <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end p-8">
             <h3 class="text-2xl font-bold text-white mb-2">{{ item.title }}</h3>
             <p class="text-blue-300 font-medium">{{ item.category }}</p>
@@ -29,17 +44,26 @@
 <script setup>
 import portfolio1 from '../assets/portfolio-1.jpg'
 import portfolio2 from '../assets/portfolio-2.jpg'
+import video1 from '../assets/video-1.mp4'
 
 const portfolioItems = [
   {
     title: 'Servis Mesin & Tune Up',
     category: 'Perawatan Berkala',
-    image: portfolio1
+    media: portfolio1,
+    type: 'image'
   },
   {
     title: 'Overhaul Mesin',
     category: 'Perbaikan Berat',
-    image: portfolio2
+    media: portfolio2,
+    type: 'image'
+  },
+  {
+    title: 'Proses Pengerjaan',
+    category: 'Dokumentasi Video',
+    media: video1,
+    type: 'video'
   }
 ]
 </script>
